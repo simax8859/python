@@ -136,3 +136,4 @@ show_goods()
 while True:
     show_list()
     show_command()
+
